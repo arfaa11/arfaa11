@@ -106,7 +106,7 @@ I don't just study these problems — I've solved them in the real world.
 ## Currently
  
 - 🔭 Building and shipping personal projects — see [arfaa.ca](https://arfaa.ca)
-- 👀 Open to **new grad opportunities** in full-stack, frontend, or security engineering
+- 👀 Open to **new grad opportunities** in data analysis, frontend, or full-stack development
 - 📍 Based in Edmonton, AB · Available remotely
  
 ---
