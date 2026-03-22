@@ -2,7 +2,7 @@
  
 # Arfaa Mumtaz
  
-**Full-Stack Developer · Security Engineer · Builder**
+**Full-Stack Developer · Data Analyst · Builder**
  
 *Edmonton, AB · CS Graduate, MacEwan University*
  
